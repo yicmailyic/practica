@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     {
         //document.write(i + "-" + frase[i] +"<br>");
 <<<<<<< HEAD
-        //un altre comentaris
+        //un altre comentaris JAJAJJAA
 =======
         //nou comentari
 >>>>>>> 69750ff4e05b0221d4893c00241396180231dcda
