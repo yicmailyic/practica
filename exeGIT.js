@@ -10,7 +10,11 @@ document.addEventListener("DOMContentLoaded", function(event) {
     for (i=0; i < frase.length; i++)
     {
         //document.write(i + "-" + frase[i] +"<br>");
-        //un altre comentari
+<<<<<<< HEAD
+        //un altre comentaris
+=======
+        //nou comentari
+>>>>>>> 69750ff4e05b0221d4893c00241396180231dcda
         if (alphabet.indexOf(frase[i]) != -1)   //Si  es troba la lletra a l'array alphabet
         {
             numLletres++
