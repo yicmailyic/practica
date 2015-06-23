@@ -11,9 +11,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
     {
         //document.write(i + "-" + frase[i] +"<br>");
 <<<<<<< HEAD
-        //un altre comentaris
+        //altres canvis
 =======
-        //nou comentari
+        //nou comentari canviat
 >>>>>>> 69750ff4e05b0221d4893c00241396180231dcda
         if (alphabet.indexOf(frase[i]) != -1)   //Si  es troba la lletra a l'array alphabet
         {
